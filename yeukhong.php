@@ -4,7 +4,7 @@
 <title>Tao thích mi</title>
 <link rel="shortcut icon" href="images/14.ico" type="image/png">
 <link rel="icon" href="images/14.ico" type="image/png">
-<meta name="description" content="Gửi Tặng Cho Người tôi yêu">
+<meta name="description" content="Gửi Tặng Cho Người anh yêu">
 <meta name="keywords" content="{keywords}">
 
 <script type="text/javascript">
@@ -26,7 +26,7 @@
 		var snowmax=14
 		var snowcolor=new Array("#AAAACC","#DDDDFF","#CCCCDD","#F3F3F3","#F0FFFF")
 		var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
-		var snowletter="Tao yêu mầy"
+		var snowletter="Anh yêu emmm bée"
 		var sinkspeed=0.6
 		var snowmaxsize=14
 		var snowminsize=8
@@ -351,11 +351,11 @@ $(function(){
 	top:1px;
 }
 </style>
-<br><center><a href="camon.php" class="myButton">Tới Lun >></a></center>
+<br><center><a href="camon.php" class="myButton">Yêu Thu >></a></center>
 </td></tr>
 <tr><td>
 </object></td></tr>
-<tr><td colspan="3"><marquee onMouseOver="this.stop()" onMouseOut="this.start()" scrollamount="3" direction="left"><font color="#FF00FF">Tăng </font><font color="#FF00FF">Cờ hó -- </font>
+<tr><td colspan="3"><marquee onMouseOver="this.stop()" onMouseOut="this.start()" scrollamount="3" direction="left"><font color="#FF00FF">Tăng </font><font color="#FF00FF">Con ngốc -- </font>
 <font color="#CC00CC">Love You</font> </marquee></td></tr>
 </table>
 
