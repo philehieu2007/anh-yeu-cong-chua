@@ -1,11 +1,10 @@
-
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Anh yêu em nhiều lắm</title>
+<title>Tao thích mi</title>
 <link rel="shortcut icon" href="images/14.ico" type="image/png">
 <link rel="icon" href="images/14.ico" type="image/png">
-<meta name="description" content="Gửi Tặng Cho Người anh yêu">
+<meta name="description" content="Gửi Tặng Cho Người tôi yêu">
 <meta name="keywords" content="{keywords}">
 
 <script type="text/javascript">
@@ -27,7 +26,7 @@
 		var snowmax=14
 		var snowcolor=new Array("#AAAACC","#DDDDFF","#CCCCDD","#F3F3F3","#F0FFFF")
 		var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
-		var snowletter="Anh yêu VỢy"
+		var snowletter="Tao yêu mầy"
 		var sinkspeed=0.6
 		var snowmaxsize=14
 		var snowminsize=8
@@ -270,7 +269,7 @@ $(function(){
 		<h2 align="center">
 		<span style="repeat scroll 0% 0% transparent; color:white; text-shadow: 0pt 0pt 0.3em LightGreen, 0pt 2pt 0.3em LightGreen;">
 		<!--********** EDIT *****************-->
-		<b>Ê con ngốc này, cưng có muốn cưới anh không nào?</b>
+		<b>Ê con ngốc này, em có muốn cưới anh không nhỉ?</b>
 		</span>
 		</h2>
 		
@@ -281,7 +280,7 @@ $(function(){
 		
 		<div id="Y" style="HEIGHT: 30px;font-weight: bold;margin-right:-30px;margin-top:120px;right:300px; POSITION: absolute; TOP: 150px; WIDTH: 100px"><input style=" cursor: pointer;padding:10px;background:#750066;border-radius:10px;color:white;" onclick="al()" type="button" value=" Có á "></div></form>
 		<!--********** EDIT *****************-->
-<b><font color=#037500>Nói thật đi để anh còn biết mà chuẩn bị sính lễ đem qua hỏi Vợ ^^</font>
+<b><font color=#037500>Nói đi để tớ còn biết chuẩn bị sính lễ đem qua ^^</font>
 </b>
 </div></div>
     </li>
@@ -311,18 +310,18 @@ $(function(){
 
 									Nhưng lòng anh biết ý nghĩa cuộc đời này là khi có em <br>
 
-									Và em ơi điều anh biết là <br>
+									Anh không biết dù mai sau có ra sao <br>
 
-									Mỗi khi em cười là bao nhiêu phiền lo trong đời biến tan <br><br>  <br><br><br>
+									Chỉ cần có em, thì mọi thứ đều là hoàn hảo <br><br>  <br><br><br>
 									</font>
 									<font face="Arial&gt" color="#2a00ff" size="4">
-									Và em ơi điều anh biết là <br>
+									Anh không biết mai sau có thế nào <br>
 
-									Nỗi nhớ tơi bời lúc em rời xa chốn đây em giận anh <br>
+									Chỉ cần có em thôi, mọi thứ anh làm đều có ý nghĩa <br>
 
-									Và em ơi điều anh biết là  <br>
+									Anh không biết mai sau có thế bao mệt mỏi  <br>
 
-									Lắm khi đau lòng vì anh vô tình cho em buồn xót xa <br><br>  <br> 
+									Chỉ cần có em là mọi ưu phiền đều biến tan <br><br>  <br> 
                                                                         									
 
 </font></font></center></marquee></td>
