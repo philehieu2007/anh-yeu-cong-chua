@@ -2,10 +2,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tao thích mi</title>
+<title>Anh yêu em nhiều lắm</title>
 <link rel="shortcut icon" href="images/14.ico" type="image/png">
 <link rel="icon" href="images/14.ico" type="image/png">
-<meta name="description" content="Gửi Tặng Cho Người tôi yêu">
+<meta name="description" content="Gửi Tặng Cho Người anh yêu">
 <meta name="keywords" content="{keywords}">
 
 <script type="text/javascript">
@@ -27,7 +27,7 @@
 		var snowmax=14
 		var snowcolor=new Array("#AAAACC","#DDDDFF","#CCCCDD","#F3F3F3","#F0FFFF")
 		var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
-		var snowletter="Tao yêu mầy"
+		var snowletter="Anh yêu VỢy"
 		var sinkspeed=0.6
 		var snowmaxsize=14
 		var snowminsize=8
@@ -270,7 +270,7 @@ $(function(){
 		<h2 align="center">
 		<span style="repeat scroll 0% 0% transparent; color:white; text-shadow: 0pt 0pt 0.3em LightGreen, 0pt 2pt 0.3em LightGreen;">
 		<!--********** EDIT *****************-->
-		<b>Ê cờ hó, mầy có tí tình cảm nào với tao không?</b>
+		<b>Ê con ngốc này, cưng có muốn cưới anh không nào?</b>
 		</span>
 		</h2>
 		
@@ -281,7 +281,7 @@ $(function(){
 		
 		<div id="Y" style="HEIGHT: 30px;font-weight: bold;margin-right:-30px;margin-top:120px;right:300px; POSITION: absolute; TOP: 150px; WIDTH: 100px"><input style=" cursor: pointer;padding:10px;background:#750066;border-radius:10px;color:white;" onclick="al()" type="button" value=" Có á "></div></form>
 		<!--********** EDIT *****************-->
-<b><font color=#037500>Khai thật đi để tao còn biết mà yêu lại :D ^^</font>
+<b><font color=#037500>Nói thật đi để anh còn biết mà chuẩn bị sính lễ đem qua hỏi Vợ ^^</font>
 </b>
 </div></div>
     </li>
@@ -382,6 +382,6 @@ refresco=setTimeout("rotulo_title()",espera);
 rotulo_title();
 </script>
 <!--********************	ĐỔI NHẠC TẠI ĐÂY ***********************************************************************-->
-<iframe src="http://www.nhaccuatui.com/mh/background/ivwlvn9YHjar" width="1" height="1" frameborder="0" allowfullscreen></iframe>e>
+<iframe src="https://www.nhaccuatui.com/mh/background/C3Xrj0oZUhTJ" width="1" height="1" frameborder="0" allowfullscreen></iframe>e>
 </body>
 </html><!-- END: main -->
