@@ -130,8 +130,8 @@ var poruka = new Array();
 var slporuka = 0;
 var bezporuke = 0;
 //CHỮ RƠI
-poruka[0] = "Tao yêu mầy"
-poruka[1] = "Tao yêu mầy"
+poruka[0] = "Anh yêu em béeeeeee"
+poruka[1] = "Tớ yêu Hoài Thuuuuu"
 
 function prikaz() {
    var text = poruka[slporuka];
@@ -202,7 +202,7 @@ background-size: cover;
 Đợi xíu :</font><font color="white" face="Comic Sans MS"> </font>
 <marquee behavior="scroll" direction="left" scrollamount="2" scrolldelay="20" width="50%"><FONT face="Tahoma" size="5" color="#48007d">
 <!--***** EDIT *****-->
-Yêu mầy lâu rồi mà tao không dám thổ lộ, Mượn web này để thể hiện tao yêu mầy đến cở nào!</FONT></marquee><br>
+Anh yêu em bé của anh lắm, muốn cưới em lắm luôn òiiii!</FONT></marquee><br>
 
 </font></center>
 
@@ -232,7 +232,7 @@ window.onmousedown=right;
  <NOSCRIPT><IFRAME SRC=*.jpg></IFRAME></NOSCRIPT>
 <!-- end code không cho copy -->
 <!-- nhạc nền -->
-<iframe src="http://www.nhaccuatui.com/mh/background/G0q6Up4DKOYi" width="1" height="1" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.nhaccuatui.com/mh/background/C3Xrj0oZUhTJ" width="1" height="1" frameborder="0" allowfullscreen></iframe>
 <!-- end nhạc nền -->
 
 
